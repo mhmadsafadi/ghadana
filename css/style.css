@@ -811,3 +811,9 @@ div#myElement {
         margin-left: -60px;
     }
 }
+.carousel-control-prev, .carousel-control-next{
+    height: 50px;
+    width: 30px;
+    top: 40% !important;
+    transform: translate(0%, -40%);
+}
